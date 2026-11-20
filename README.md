@@ -27,5 +27,3 @@ Playwright · Cypress · Selenium · TypeScript · JavaScript · Java · REST As
 - 💼 LinkedIn: [linkedin.com/in/dilara2777](https://www.linkedin.com/in/dilara2777)
 - 📧 Email: dilarabik2777@gmail.com
 - 📍 Miami–Fort Lauderdale, FL — open to remote roles (Senior SDET, QA Automation Architect, AI Evaluation Engineer)
-
-*US Permanent Resident, authorized to work in the US indefinitely, no sponsorship required.*
